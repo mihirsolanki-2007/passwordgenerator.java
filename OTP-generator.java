@@ -17,7 +17,7 @@ class Main {
 		String Capital_letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"; 
 		String Small_letters = "abcdefghijklmnopqrstuvwxyz"; 
 		String numbers = "0123456789"; 
-		String symbols = "!@#$%^&*_=+-/.?<>)"; 
+		String symbols = "!@#/.?"; 
 
 
 		String values = Capital_letters + Small_letters + numbers + symbols; 
