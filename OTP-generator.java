@@ -1,4 +1,4 @@
-// Java OTP generator using random() method  
+
 
 import java.util.*; 
 
